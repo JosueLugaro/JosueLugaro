@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JosueLugaro/JosueLugaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a full-stack software engineer, with a passion for problem solving and critical thinking!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on furthering my knowledge of data structures and algorithms
+- 👯 I’m looking to collaborate on innovative tech
+- 💬 Ask me about anything code related!(or Star Wars related)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josue-e-j-lugaro-3462131b8/), [My website](http://josueejlugaro.com/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was born in Japan, and I love Star Wars!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🌱 I’m currently learning -->
+<!-- YOUR_COMMENT_HERE -->
+<!--  - 🤔 I’m looking for help with -->
