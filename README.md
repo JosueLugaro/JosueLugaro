@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on  growing technically and professionally
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josue-e-j-lugaro-3462131b8/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born in Japan, and I love Star Wars!
 
 <!-- - 🌱 I’m currently learning -->
