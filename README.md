@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-### I am a full-stack software engineer, with a passion for problem solving and critical thinking!
+### I am a software engineer, with a passion for problem solving and critical thinking!
 
 - 🔭 I’m currently working on  growing technically and professionally
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josue-e-j-lugaro-3462131b8/)
