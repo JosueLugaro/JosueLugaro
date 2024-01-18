@@ -8,7 +8,7 @@ Passionate about building clean, scalable, impactful software through problem so
 
 *   ✉️  You can contact me at [josuelugaro15@gmail.com](mailto:josuelugaro15@gmail.com)
 *   🚀  I'm currently working on improving and expanding my technical skills!
-*   🧠  I'm learning Cybersecurity fundamentals
+*   🧠  I'm learning R and Cybersecurity fundamentals
 
 ### Skills 
 <p align="left">
