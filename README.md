@@ -7,8 +7,8 @@ Software Engineer
 Passionate about building clean, scalable, impactful software through problem solving, critical thinking, and collaboration!
 
 *   ✉️  You can contact me at [josuelugaro15@gmail.com](mailto:josuelugaro15@gmail.com)
-*   🚀  I'm currently working on the [airlines-api](https://github.com/JosueLugaro/airlines-api)
-*   🧠  I'm learning C++
+<!-- *   🚀  I'm currently working on the [airlines-api](https://github.com/JosueLugaro/airlines-api) -->
+<!-- *   🧠  I'm learning C++ -->
 
 ### Skills 
 <p align="left">
