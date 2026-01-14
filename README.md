@@ -20,10 +20,10 @@ Passionate about building clean, scalable, impactful software through problem so
 ### Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/josue-lugaro-3462131b8/" rel="noreferrer" target="_blank">
+  <a href="https://www.linkedin.com/in/josue-lugaro-3462131b8/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://gitlab.com/JosueLugaro" rel="noreferrer" target="_blank">
+  <a href="https://gitlab.com/JosueLugaro">
     <img src="https://skillicons.dev/icons?i=gitlab"/>
   </a>
 </p>
