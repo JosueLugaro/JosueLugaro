@@ -1,4 +1,4 @@
-Hi 👋 My name is Josue Lugaro
+Hello there 👋 My name is Josue Lugaro
 =============================
 
 Software Engineer
